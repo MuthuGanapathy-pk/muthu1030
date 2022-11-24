@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muthuganapathy
 - 👀 I’m interested in Full stack developer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me muthuganapathy.pk@gmail.com
 
